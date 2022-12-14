@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alexandra Konovalova aka BasbustDama</h1>
-<h3 align="center">Flutter developer from Russia</h3>
+<h3 align="center">Frontend React Developer from Russia</h3>
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basbustdama&theme=github_dark" alt="shteyd" /></p>
 
 <p align="center">
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="dart" width="40" height="40"/></a>
+    <a href="https://html.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="git" width="40" height="40"/></a>
+    <a href="https://www.w3.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="git" width="40" height="40"/></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="git" width="40" height="40"/></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
@@ -17,4 +17,6 @@
 <p align="left">
   <a href="https://vk.com/basbustdama"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/vk.svg" alt="basbustdama" height="30" width="40" /></a>
   <a href="https://t.me/basbustdama"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" height="30" width="30"/></a>
+  <a href="https://career.habr.com/basbustdama"><img align="center" src="https://www.citeck.ru/wp-content/uploads/2021/08/%D0%BB%D0%BE%D0%B3%D0%BE-%D1%85%D0%B0%D0%B1%D1%80.jpg" height="30" width="30"/></a>
+  
 </p>
