@@ -1,13 +1,13 @@
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BasbustDama&theme=github_dark" alt="shteyd" /></p>
 
 <p align="center">
+    <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="GoLang" width="40" height="40"/></a>
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="dart" width="40" height="40"/></a>
-    <a href="https://html.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="git" width="40" height="40"/></a>
-    <a href="https://www.w3.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="git" width="40" height="40"/></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="git" width="40" height="40"/></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+    <a href="https://postgresql.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/></a>
+    <a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Contact with me:</h3>
