@@ -6,6 +6,7 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Postgres-09131b?style=for-the-badge&logo=postgresql" alt="PostgreSQL" /></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-MySQL-09131b?style=for-the-badge&logo=mysql" alt="MySQL" /></a>
     <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Redis-09131b?style=for-the-badge&logo=redis" alt="Redis" /></a>
+    <a href="https://www.clickhouse.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Clickhouse-09131b?style=for-the-badge&logo=clickhouse" alt="Clickhouse" /></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-GNU_Bash-09131b?style=for-the-badge&logo=gnubash" alt="GNU Bash" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Docker-09131b?style=for-the-badge&logo=docker" alt="Docker" /></a>
     <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-RabbitMQ-09131b?style=for-the-badge&logo=rabbitmq" alt="RabbitMQ" />
