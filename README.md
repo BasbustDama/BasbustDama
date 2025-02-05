@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BasbustDama&theme=codeSTACKr" alt="BasbustDama" /></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BasbustDama&theme=github_dark" alt="BasbustDama" /></p>
 
 <p align="center">
     <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Golang-09131b?style=for-the-badge&logo=go" alt="Golang" /></a>
